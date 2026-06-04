@@ -78,3 +78,31 @@ StudentPerformanceFactors.csv
 sql_quary_project.sql
 
 
+## Findings
+Higher study hours generally resulted in better exam scores.
+
+Students with high attendance performed better academically.
+
+Motivation level showed a strong impact on exam performance.
+
+Positive peer influence was associated with higher average scores.
+
+Balanced sleep and physical activity contributed to better academic results.
+
+Access to resources, internet, and tutoring sessions positively affected performance.
+
+
+## Project Outcome
+This project demonstrates how SQL can be used to analyze educational datasets and uncover factors influencing student performance. By applying aggregation, filtering, subqueries, conditional statements, and window functions, meaningful insights were generated from raw student data.
+
+
+## Conclusion
+Student performance is influenced by a combination of academic habits, lifestyle factors, motivation, and family support. This project demonstrates how SQL can be used to analyze educational data and generate meaningful insights for decision-making.
+
+
+## Author
+Abhishikta Mondal
+
+
+-- **LinkedIn** : www.linkedin.com/in/abhishiktamondal
+
