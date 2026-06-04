@@ -11,9 +11,7 @@ PostgreSQL
 
 ## SQL Concepts Covered
 SELECT, WHERE, ORDER BY,
-
 GROUP BY, HAVING,
-
 Aggregate Functions (COUNT, AVG, MAX, MIN)
 CASE WHEN
 Subqueries
