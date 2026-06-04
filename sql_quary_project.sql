@@ -1,3 +1,6 @@
+--CREATE DATABASE
+CREATE DATABASE student_academic_performance_analysis
+
 --CREATE TABLE
 CREATE TABLE student_performance
 ( Hours_Studied	INT,
