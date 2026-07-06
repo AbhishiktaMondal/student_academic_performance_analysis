@@ -1,107 +1,176 @@
-# student_academic_performance_analysis
+# Student Academic Performance Analysis using SQL & Power BI
+## 📌 Project Overview
 
-## Student Academic Performance Analysis using SQL
-Project Overview
+This project analyzes student academic performance using PostgreSQL and Power BI to identify the academic, personal, and environmental factors influencing exam performance.
 
-This project analyzes student academic performance using SQL. The dataset contains information on study habits, attendance, parental involvement, lifestyle factors, and exam scores. The goal is to identify key factors that influence student performance and generate meaningful insights through SQL queries.
+The project follows an end-to-end data analytics workflow, starting from data exploration and SQL analysis to interactive dashboard development in Power BI.
 
-## Tools Used
-PostgreSQL
+## 🎯 Project Objectives
+Analyze student performance using SQL.
+Identify factors affecting academic success.
+Generate meaningful business insights.
+Build an interactive Power BI dashboard.
+Demonstrate end-to-end data analytics skills.
+
+## 🛠 Tech Stack
+Tool	Purpose
+PostgreSQL	Data Storage & SQL Analysis
+SQL	Data Exploration & Business Queries
+Power BI	Dashboard & Visualization
+GitHub	Project Documentation
+
+## 📂 Dataset Information
+Dataset: Student Academic Performance Dataset
+Features
+Study Hours
+Attendance
+Motivation Level
+Sleep Hours
+Peer Influence
+Teacher Quality
+Internet Access
+Family Income
+School Type
+Physical Activity
+Exam Score
+And more...
+
+Total Features: 20
 
 
-## SQL Concepts Covered
-SELECT, WHERE, ORDER BY
-
-GROUP BY, HAVING
-
-Aggregate Functions (COUNT, AVG, MAX, MIN)
-
+## 📚 SQL Skills Demonstrated
+SELECT
+WHERE
+ORDER BY
+GROUP BY
+HAVING
+Aggregate Functions
 CASE WHEN
-
 Subqueries
-
-Window Functions (RANK, DENSE_RANK, ROW_NUMBER)
-
-## Key Analysis Performed
-Student performance ranking
-
-Attendance vs exam scores
-
-Study hours vs exam scores
-
-Motivation level analysis
-
-Peer influence analysis
-
-Sleep hours impact on performance
-
-Physical activity impact on performance
-
-Internet access comparison
-
-Tutoring sessions analysis
-
-Learning disabilities comparison
-
-School type performance analysis
-
-
-## Key Insights
-Higher study hours and attendance generally lead to better exam performance.
-
-Students with high motivation levels achieve higher average scores.
-
-Positive peer influence is associated with improved academic results.
-
-Balanced sleep and physical activity contribute to better performance.
-
-Family and educational support factors significantly affect student outcomes.
-
-
-## Skills Demonstrated
-SQL Query Writing
-
-Data Analysis
-
-Business Insight Generation
-
-Data Aggregation
-
 Window Functions
+RANK()
+DENSE_RANK()
+ROW_NUMBER()
 
+
+## 🔍 Business Problems Solved
+
+✔ Student Ranking
+
+✔ Attendance Analysis
+
+✔ Study Hours Analysis
+
+✔ Motivation Level Analysis
+
+✔ Sleep Hours Analysis
+
+✔ Physical Activity Analysis
+
+✔ Peer Influence Analysis
+
+✔ Internet Access Analysis
+
+✔ Tutoring Sessions Analysis
+
+✔ School Type Comparison
+
+✔ Teacher Quality Analysis
+
+✔ Learning Disabilities Analysis
+
+✔ Performance Categories
+
+✔ Ranking Analysis using Window Functions
+
+✔ 30 SQL Business Questions Solved
+
+
+## 📊 Power BI Dashboard
+
+The PostgreSQL database was connected directly to Power BI to create an interactive dashboard.
+
+### Dashboard Features
+KPI Cards
+Total Students
+Average Exam Score
+Average Attendance
+Average Study Hours
+Average Sleep Hours
+
+### Visualizations
+Average Exam Score by Study Hours
+Average Exam Score by Attendance
+Motivation Level Analysis
+Peer Influence Analysis
+Parental Involvement Analysis
+Gender Distribution
+School Type vs Teacher Quality Matrix
+
+### Interactive Filters
+Gender
+School Type
+Motivation Level
+Internet Access
+Learning Disabilities
+Parental Involvement
+
+
+## 📷 Dashboard Preview
+![Dashboard](<img width="1418" height="798" alt="Student Academic Performance Analysis" src="https://github.com/user-attachments/assets/4e2f56ca-c1d4-41c8-b787-476e298a5872" />
+)
+
+
+## 🔄 Project Workflow
+               CSV Dataset
+                    │
+                    ▼
+          PostgreSQL Database
+                    │
+                    ▼
+         SQL Data Exploration
+                    │
+                    ▼
+      Business Problem Solving
+                    │
+                    ▼
+        Insight Generation
+                    │
+                    ▼
+     Power BI Interactive Dashboard
+                    │
+                    ▼
+      Data-driven Decision Making
+
+      
+## 📈 Key Findings
+Students with higher study hours achieved better exam scores.
+High attendance positively impacted academic performance.
+Motivation level significantly influenced student success.
+Positive peer influence improved average exam scores.
+Healthy sleep patterns and physical activity supported better performance.
+Teacher quality and parental involvement contributed to improved outcomes.
+
+## 🎯 Project Outcome
+This project demonstrates how SQL and Power BI can be combined to analyze educational datasets and generate actionable insights. It showcases the complete analytics process—from querying data in PostgreSQL to building an interactive dashboard for data-driven decision-making.
+
+
+## 🚀 Skills Demonstrated
+SQL Query Writing
+Data Cleaning
+Exploratory Data Analysis (EDA)
+Business Problem Solving
+Data Visualization
+Dashboard Development
+PostgreSQL
+Power BI
 Analytical Thinking
+Data Storytelling
 
 
-## Project Files
-StudentPerformanceFactors.csv
-
-sql_quary_project.sql
-
-
-## Findings
-Higher study hours generally resulted in better exam scores.
-
-Students with high attendance performed better academically.
-
-Motivation level showed a strong impact on exam performance.
-
-Positive peer influence was associated with higher average scores.
-
-Balanced sleep and physical activity contributed to better academic results.
-
-Access to resources, internet, and tutoring sessions positively affected performance.
-
-
-## Project Outcome
-This project demonstrates how SQL can be used to analyze educational datasets and uncover factors influencing student performance. By applying aggregation, filtering, subqueries, conditional statements, and window functions, meaningful insights were generated from raw student data.
-
-
-## Conclusion
-Student performance is influenced by a combination of academic habits, lifestyle factors, motivation, and family support. This project demonstrates how SQL can be used to analyze educational data and generate meaningful insights for decision-making.
-
-
-## Author
+## 👩‍💻 Author
 Abhishikta Mondal
+
 
 
 ## LinkedIn
