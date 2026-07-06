@@ -40,16 +40,27 @@ Total Features: 20
 
 ## 📚 SQL Skills Demonstrated
 SELECT
+
 WHERE
+
 ORDER BY
+
 GROUP BY
+
 HAVING
+
 Aggregate Functions
+
 CASE WHEN
+
 Subqueries
+
 Window Functions
+
 RANK()
+
 DENSE_RANK()
+
 ROW_NUMBER()
 
 
@@ -118,31 +129,8 @@ Parental Involvement
 
 ## 📷 Dashboard Preview
 ![Dashboard](https://github.com/AbhishiktaMondal/student_academic_performance_analysis/blob/main/Student%20Academic%20Performance%20Analysis.png)
-)
 
-
-## 🔄 Project Workflow
-               CSV Dataset
-                    │
-                    ▼
-          PostgreSQL Database
-                    │
-                    ▼
-         SQL Data Exploration
-                    │
-                    ▼
-      Business Problem Solving
-                    │
-                    ▼
-        Insight Generation
-                    │
-                    ▼
-     Power BI Interactive Dashboard
-                    │
-                    ▼
-      Data-driven Decision Making
-
-      
+    
 ## 📈 Key Findings
 Students with higher study hours achieved better exam scores.
 High attendance positively impacted academic performance.
