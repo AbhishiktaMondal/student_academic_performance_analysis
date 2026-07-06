@@ -90,27 +90,43 @@ The PostgreSQL database was connected directly to Power BI to create an interact
 
 ### Dashboard Features
 KPI Cards
+
 Total Students
+
 Average Exam Score
+
 Average Attendance
+
 Average Study Hours
+
 Average Sleep Hours
 
 ### Visualizations
 Average Exam Score by Study Hours
+
 Average Exam Score by Attendance
+
 Motivation Level Analysis
+
 Peer Influence Analysis
+
 Parental Involvement Analysis
+
 Gender Distribution
+
 School Type vs Teacher Quality Matrix
 
 ### Interactive Filters
 Gender
+
 School Type
+
 Motivation Level
+
 Internet Access
+
 Learning Disabilities
+
 Parental Involvement
 
 
