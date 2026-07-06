@@ -117,7 +117,7 @@ Parental Involvement
 
 
 ## 📷 Dashboard Preview
-![Dashboard](<img width="1418" height="798" alt="Student Academic Performance Analysis" src="https://github.com/user-attachments/assets/4e2f56ca-c1d4-41c8-b787-476e298a5872" />
+![Dashboard](https://github.com/AbhishiktaMondal/student_academic_performance_analysis/blob/main/Student%20Academic%20Performance%20Analysis.png)
 )
 
 
