@@ -7,17 +7,21 @@ The project follows an end-to-end data analytics workflow, starting from data ex
 
 ## 🎯 Project Objectives
 Analyze student performance using SQL.
+
 Identify factors affecting academic success.
+
 Generate meaningful business insights.
+
 Build an interactive Power BI dashboard.
+
 Demonstrate end-to-end data analytics skills.
 
 ## 🛠 Tech Stack
-Tool	Purpose
-PostgreSQL	Data Storage & SQL Analysis
-SQL	Data Exploration & Business Queries
-Power BI	Dashboard & Visualization
-GitHub	Project Documentation
+Tool                   Purpose
+PostgreSQL    	Data Storage & SQL Analysis
+SQL	Data        Exploration & Business Queries
+Power BI        Dashboard & Visualization
+GitHub	        Project Documentation
 
 ## 📂 Dataset Information
 Dataset: Student Academic Performance Dataset
@@ -34,7 +38,6 @@ School Type
 Physical Activity
 Exam Score
 And more...
-
 Total Features: 20
 
 
