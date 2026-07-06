@@ -16,29 +16,15 @@ Build an interactive Power BI dashboard.
 
 Demonstrate end-to-end data analytics skills.
 
-## 🛠 Tech Stack
-Tool                   Purpose
-PostgreSQL    	Data Storage & SQL Analysis
-SQL	Data        Exploration & Business Queries
-Power BI        Dashboard & Visualization
-GitHub	        Project Documentation
+## 🛠 Tools
+PostgreSQL
+
+Power BI  
+
+GitHub	       
 
 ## 📂 Dataset Information
 Dataset: Student Academic Performance Dataset
-Features
-Study Hours
-Attendance
-Motivation Level
-Sleep Hours
-Peer Influence
-Teacher Quality
-Internet Access
-Family Income
-School Type
-Physical Activity
-Exam Score
-And more...
-Total Features: 20
 
 
 ## 📚 SQL Skills Demonstrated
@@ -68,40 +54,38 @@ ROW_NUMBER()
 
 
 ## 🔍 Business Problems Solved
+ Student Ranking
 
-✔ Student Ranking
+ Attendance Analysis
 
-✔ Attendance Analysis
+ Study Hours Analysis
 
-✔ Study Hours Analysis
+ Motivation Level Analysis
 
-✔ Motivation Level Analysis
+ Sleep Hours Analysis
 
-✔ Sleep Hours Analysis
+ Physical Activity Analysis
 
-✔ Physical Activity Analysis
+ Peer Influence Analysis
 
-✔ Peer Influence Analysis
+ Internet Access Analysis
 
-✔ Internet Access Analysis
+ Tutoring Sessions Analysis
 
-✔ Tutoring Sessions Analysis
+ School Type Comparison
 
-✔ School Type Comparison
+ Teacher Quality Analysis
 
-✔ Teacher Quality Analysis
+ Learning Disabilities Analysis
 
-✔ Learning Disabilities Analysis
+ Performance Categories
 
-✔ Performance Categories
+ Ranking Analysis using Window Functions
 
-✔ Ranking Analysis using Window Functions
-
-✔ 30 SQL Business Questions Solved
+ 30 SQL Business Questions Solved
 
 
 ## 📊 Power BI Dashboard
-
 The PostgreSQL database was connected directly to Power BI to create an interactive dashboard.
 
 ### Dashboard Features
